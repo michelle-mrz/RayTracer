@@ -1,4 +1,4 @@
 # RayTracer
 Ray Tracing!
 
-![Uploading 30 1.png…]()
+![DICE](https://github.com/michelle-mrz/RayTracer/blob/main/ref/DICE_CREATIVE.png?raw=true)
